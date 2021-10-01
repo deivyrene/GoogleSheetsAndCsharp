@@ -1,5 +1,7 @@
 # GoogleSheetsAndCsharp
 
+Repository created to provide connection to Google Sheets with csharp, using a GET from the Google Sheets library.
+
 ## Requirement
 
 - Have installed the [dotnet](https://dotnet.microsoft.com/download) version at least 5.0.401
