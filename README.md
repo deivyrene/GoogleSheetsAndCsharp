@@ -39,6 +39,8 @@
 
 ## Execute
 
+Run in the terminal of your choice:
+
 Install GoogleApisSheet
 
 ```c#
