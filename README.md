@@ -9,7 +9,7 @@
   - Click Enable API. Search for and enable the Google Drive API and the Google Sheets API.
   - Create credentials for a Web Server to access Application Data.
   - Name the service account and grant it a Project Role of Editor.
-  - Download the JSON file and paste in the root of the project.
+  - Download the JSON file and paste in the root of the project as `client_secrets`.
 
 ## Configuration
 
